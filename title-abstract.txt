@@ -1,5 +1,6 @@
 Title:
-<MY SUPER AWESOME PROJECT TITLE>
+Pyrenote Webdeveloper
 
 Abstract:
-<MY SUPER AWESOME PROJECT ABSTRACT>
+The website, Pyrenote, is helping scientists track bird populations by identifying them using machine learning classifiers on publicly annotated audio recordings. I have implemented three features over the course of two academic quarters aimed at streamlining user experience and improving scalability. The added scalability will be useful for future projects as we start becoming more ambitious with the number of users we bring to the site.
+
